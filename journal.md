@@ -23,4 +23,21 @@ Ideas for electronics
 - OLED display
 - RGB panel on back of body (backlight will be viewable.
 
+X-56 HOTAS By Logitech
+![image](https://github.com/user-attachments/assets/8391991c-c408-4dea-9342-47d88dbdc711)
+
   
+# June 17th- Spent 8 hours modelling flight stick.
+
+- Designed pitch and roll mechanism, as well as the pitch mechanism holders. 
+- Used Revolute feature (for the first time) to test movement in the Y axis, then the X axis. 
+- Stick moves 18 degrees in the Y axis (along the longer side of the assembly), moves 15 degrees in the other X axis. 
+- These are very good values- they are within or exceed the values of existing flight sticks. I am very happy that it worked and didnt require a bunch of trial and error. 
+- I then tested movement in both axes to see if there are any conflicts. 
+- According to the program, there should not be any problems when moving in both axes. Since I recently got a 3d printer, I will be able to prototype this before submission. 
+- Sizing appears to be just right.
+- Next, I will do some research on what specific hall effect sensor to use and where to place it. 
+- Parts used for this iteration: 5x11x5 bearings, m5 screws, M3 by 7 max screws
+
+
+
