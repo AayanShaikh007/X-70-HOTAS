@@ -8,12 +8,12 @@ created_at: "2025-06-16"
 # June 16th- spent 4 hours planning. 
 I spent most of today setting my goals for the project. In summary, I want to make a HOTAS system that resembles the X-56 HOTAS by Logitech, since I like its design. 
 
-Ideas for CAD design
+_Aims for CAD design_
 - X and Y moving body, detect position via hall effect sensors
 - Ergonomic flight stick
 - Analog trigger spring mechanisms
 
-Ideas for electronics
+_Aims for electronics_
 - Force feedback
 - Use FreeJoy and any STM32F103 ("Blue Pill"). This removes the need for software. 
 - Hall effect (Trigger, X-Y axis sensing)
@@ -23,7 +23,7 @@ Ideas for electronics
 - OLED display
 - RGB panel on back of body (backlight will be viewable.
 
-X-56 HOTAS By Logitech
+_X-56 HOTAS By Logitech_
 
 ![image](https://github.com/user-attachments/assets/8391991c-c408-4dea-9342-47d88dbdc711)
 
@@ -40,7 +40,7 @@ X-56 HOTAS By Logitech
 - Next, I will do some research on what specific hall effect sensor to use and where to place it. 
 - Parts used for this iteration: 5x11x5 bearings, m5 screws, M3 by 7 max screws
 
-Image of the flight stick assembly that will be housed within the base. 
+_Image of the flight stick assembly that will be housed within the base._
 
 ![image](https://github.com/user-attachments/assets/118a3032-863b-4adc-beba-3a4ecb55e757)
 
@@ -59,10 +59,11 @@ Image of the flight stick assembly that will be housed within the base.
 - My aim for today was to finish the throttle design, and although I am pretty close to completion, I was unable to finish it completely. 
 - To take a break from the joystick, I transitioned to working on the throttle design. 
 
-Aims for throttle:
+_Aims for throttle_:
 - RGB Lighting for Button Lettering, RGB backlight (back panel) 
 - Various customizable switches
 - System to add resistance to the throttle lever
 - Split throttle design.
 
-So far, I have completed the mechanism for the throttle- the position will be sensed by a potentiometer, and the throttle itself will move a total of 80 degrees if no future designs collide or interfere with it. It has been designed with tight tolerances with the hope that it would create some friction between the moving parts. 
+So far, I have completed the mechanism for the throttle- the position will be sensed by a potentiometer, and the throttle itself will move a total of 80 degrees if no future designs collide or interfere with it. It has been designed with tight tolerances with the hope that it would create some friction between the moving parts. My alternative method to add resistance to the throttle lever movement is two C-clamps that will compress the throttle lever body and increase the amount of friction it experiences. **It will be essential to print the parts in a very specific orientation so that the parts do not give the impression that they are 3d printed when moved. **
+
