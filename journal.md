@@ -65,5 +65,6 @@ _Aims for throttle_:
 - System to add resistance to the throttle lever
 - Split throttle design.
 
-So far, I have completed the mechanism for the throttle- the position will be sensed by a potentiometer, and the throttle itself will move a total of 80 degrees if no future designs collide or interfere with it. It has been designed with tight tolerances with the hope that it would create some friction between the moving parts. My alternative method to add resistance to the throttle lever movement is two C-clamps that will compress the throttle lever body and increase the amount of friction it experiences. **It will be essential to print the parts in a very specific orientation so that the parts do not give the impression that they are 3d printed when moved. **
+So far, I have completed the mechanism for the throttle- the position will be sensed by a potentiometer, and the throttle itself will move a total of 80 degrees if no future designs collide or interfere with it. It has been designed with tight tolerances with the hope that it would create some friction between the moving parts. My alternative method to add resistance to the throttle lever movement is two C-clamps that will compress the throttle lever body and increase the amount of friction it experiences. **It will be essential to print the parts in a very specific orientation so that the parts do not give the impression that they are 3d printed when moved.**
 
+# June 19th ...
