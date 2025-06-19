@@ -24,6 +24,7 @@ Ideas for electronics
 - RGB panel on back of body (backlight will be viewable.
 
 X-56 HOTAS By Logitech
+
 ![image](https://github.com/user-attachments/assets/8391991c-c408-4dea-9342-47d88dbdc711)
 
   
@@ -39,5 +40,29 @@ X-56 HOTAS By Logitech
 - Next, I will do some research on what specific hall effect sensor to use and where to place it. 
 - Parts used for this iteration: 5x11x5 bearings, m5 screws, M3 by 7 max screws
 
+Image of the flight stick assembly that will be housed within the base. 
 
+![image](https://github.com/user-attachments/assets/118a3032-863b-4adc-beba-3a4ecb55e757)
 
+# June 18th (early morning)- Spent 4 hours modelling. 
+
+- Focused on designing the joystick itself. I started this part of the design process thinking it would take a lot of trial and error but if anything, it took a lot of thought to ensure that the parts would actually be ergonomic and fit real world dimensions.
+- Used images of the X-56 as reference (didnt copy obviously) to base design off.
+- Pretty happy with the result, I will do some more refining later as I alter the design for buttons and wiring. I am not completely satisfied with it, but I think that with some polishing it can look even closer to the Logitech X-56 that I am modelling it after. 
+- One issue that was particularly annoying was the fact that it was difficult to simply make a shell of the outer design using the built in mode, so I will need to do it manually. 
+
+![Screenshot 2025-06-18 152430](https://github.com/user-attachments/assets/90831db2-b497-4572-a511-8507b115e62f)
+![Screenshot 2025-06-18 152437](https://github.com/user-attachments/assets/9efcb7ef-1b0a-4a72-bbda-8dc92de15e4b)
+
+# June 18th (Evening)- Spent 5 hours modelling throttle.
+
+- My aim for today was to finish the throttle design, and although I am pretty close to completion, I was unable to finish it completely. 
+- To take a break from the joystick, I transitioned to working on the throttle design. 
+
+Aims for throttle:
+- RGB Lighting for Button Lettering, RGB backlight (back panel) 
+- Various customizable switches
+- System to add resistance to the throttle lever
+- Split throttle design.
+
+So far, I have completed the mechanism for the throttle- the position will be sensed by a potentiometer, and the throttle itself will move a total of 80 degrees if no future designs collide or interfere with it. It has been designed with tight tolerances with the hope that it would create some friction between the moving parts. 
