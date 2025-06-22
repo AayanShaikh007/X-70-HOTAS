@@ -73,4 +73,5 @@ _Rough preview of the throttle body._
 
 # June 20th
 
-Got busy with some assignments amd the last day of school yesterday. With that out of the way now, i have a couple of changes that i woild like to make to the project goals. Inspirrd by the turtle beach throttle, I have secided to add a rotary switch that can control flaps, a switch yo contol landing gear and a large lcd to show data. I may also add a oled display to the throttle as done in the turtle Beach throttle.
+Got busy with some assignments and the last day of school yesterday. With that out of the way now, I have a couple of changes that I would like to make to the project goals. Inspired by the turtle beach throttle, I have decided to add a rotary switch that can control flaps, a switch to control landing gear and a large LCD to show data. I may also add an oled display to the throttle as done in the turtle Beach throttle.
+
