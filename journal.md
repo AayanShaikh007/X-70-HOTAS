@@ -75,7 +75,7 @@ _Rough preview of the throttle body._
 
 Got busy with some assignments and the last day of school yesterday. With that out of the way now, I have a couple of changes that I would like to make to the project goals. Inspired by the turtle beach throttle, I have decided to add a rotary switch that can control flaps, a switch to control landing gear and a large LCD to show data. I may also add an oled display to the throttle as done in the turtle Beach throttle.
 
-# June 24th
+# June 24th- 6 hours worked 
 
 Got some good progress done today. Firstly, I got a lot of progress in the throttle body design, and I am very happy with how it turned out. I have added a rotating knob that can be customized for various uses, and intend on adding a hat switch and some other switches in a bit. However, it probably doesnt look as good right now because I havent added the final touches to the appearance. 
 
