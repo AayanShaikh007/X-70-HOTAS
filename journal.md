@@ -82,4 +82,8 @@ Got some good progress done today. Firstly, I got a lot of progress in the throt
 ![image](https://github.com/user-attachments/assets/8ce89e6f-b4d9-473f-8585-e2a95e146b34)
 
 
-I also started resaerching IO options and arranged the layout for the IO on the throttle top shield. 
+I also started resaerching IO options and arranged the layout for the IO on the throttle top shield. I will be using a variety of ~2cm toggle switches, a rotating switch, and **a flap setting lever**. This lever is going to be one of the most used parts on the throttle, so it is essential that I get it right.  
+
+![image](https://github.com/user-attachments/assets/0a9fcdc6-da57-4854-a1c9-71503073a66d)
+
+# June 25th
