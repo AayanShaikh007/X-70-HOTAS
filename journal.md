@@ -86,4 +86,4 @@ I also started resaerching IO options and arranged the layout for the IO on the 
 
 ![image](https://github.com/user-attachments/assets/0a9fcdc6-da57-4854-a1c9-71503073a66d)
 
-# June 25th
+# June 25th and 26th- 2 Hours spent
