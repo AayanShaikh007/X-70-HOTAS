@@ -86,4 +86,8 @@ I also started resaerching IO options and arranged the layout for the IO on the 
 
 ![image](https://github.com/user-attachments/assets/0a9fcdc6-da57-4854-a1c9-71503073a66d)
 
-# June 25th and 26th- 2 Hours spent
+# June 25th and 26th- 3 Hours spent
+
+At this point I think I am finished with the throttle design and all that is left is the finishing touches such as the logo and fillets. The throttle now has places for the components to be screwed into or secured with glue. Due to the positions of the buttons I will not be using a PCB in the tradition sense in the throttle, and will probably not use one in the joystick either. 
+
+![image](https://github.com/user-attachments/assets/a3e3b8c1-90a9-4998-a5c2-dd4cd66252f8)
