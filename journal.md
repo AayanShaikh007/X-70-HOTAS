@@ -91,3 +91,7 @@ I also started resaerching IO options and arranged the layout for the IO on the 
 At this point I think I am finished with the throttle design and all that is left is the finishing touches such as the logo and fillets. The throttle now has places for the components to be screwed into or secured with glue. Due to the positions of the buttons I will not be using a PCB in the tradition sense in the throttle, and will probably not use one in the joystick either. 
 
 ![image](https://github.com/user-attachments/assets/a3e3b8c1-90a9-4998-a5c2-dd4cd66252f8)
+
+I then worked to finish the joystick design by creaing the spaces for the components, and creating holes and screws for the buttons and components to go. One new component I added was a rotary encoder, which I thought would be a good idea since it can combine a potentiometer and button in function (mostly). At this point, the only thing left to work on is the joystick assembly and base. 
+
+![image](https://github.com/user-attachments/assets/1dc4a211-ac73-4b73-8bbc-4b257b50dfd0)
