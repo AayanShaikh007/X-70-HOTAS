@@ -99,4 +99,19 @@ I then worked to finish the joystick design by creaing the spaces for the compon
 # June 30th 
 As mentioned previously, the main focus now is just to add the finishing touches such as adding holes and accomodating for wires. I completed the joystick base, where I decided on a relatively minimalistic design with just a landing gear lever and landing gear indicator lights, a large rotary encoder, and a sensitive touchscreen that I can easily create the GUI for on the PC. Following that, I made some changes to the joystick design that needed to be made because I decided to tilt the entire stick 10 degrees forward for ergonomics. However, I somehow lost the ability to add the fillet to the joystick that would give it the characteristic place to insert your thumb, I will continue to try to fix this, although it is not a major issue. 
 
-To make the HOTAS system look as flawless and polished as possible, I added my personal logo that I made a few weeks ago to place on my PCBs and 3d prints going forward. I also created a SVG of a stylistic logo that I could print on the back of both assemblies to further add to the appearance of the HOTAS system. 
+To make the HOTAS system look as flawless and polished as possible, I added my personal logo that I made a few weeks ago to place on my PCBs and 3d prints going forward. I also created a SVG of a stylistic logo that I could print on the back of both assemblies to further add to the appearance of the HOTAS system.
+
+Final showcase of finished product:
+
+![Screenshot 2025-06-30 220043](https://github.com/user-attachments/assets/75555d52-ded4-482b-b260-4c7ee5886b44)
+![Screenshot 2025-06-30 220137](https://github.com/user-attachments/assets/5c6a0a2e-cec1-44d2-8285-56a4c3455f49)
+![Screenshot 2025-06-30 220155](https://github.com/user-attachments/assets/8c4bfaa9-b427-416b-8334-380c9fe751c8)
+![Screenshot 2025-06-30 220210](https://github.com/user-attachments/assets/53301708-a644-4c49-aeb1-01c556fe3765)
+
+Joystick:
+
+![Screenshot 2025-06-30 220920](https://github.com/user-attachments/assets/db1eebbf-a7d7-490e-afa9-3f00bb92df58)
+![Screenshot 2025-06-30 220938](https://github.com/user-attachments/assets/2ddc3006-730b-476f-9c5f-0ccca8f7c59b)
+![Screenshot 2025-06-30 221005](https://github.com/user-attachments/assets/0f5c46f8-c002-47be-b38c-a556e2873e49)
+
+Looking forward to building this irl!
