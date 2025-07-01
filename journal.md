@@ -96,7 +96,7 @@ I then worked to finish the joystick design by creaing the spaces for the compon
 
 ![image](https://github.com/user-attachments/assets/1dc4a211-ac73-4b73-8bbc-4b257b50dfd0)
 
-# June 30th 
+# June 26 to 30th (worked sporadically)- 12 hours spent over time.
 As mentioned previously, the main focus now is just to add the finishing touches such as adding holes and accomodating for wires. I completed the joystick base, where I decided on a relatively minimalistic design with just a landing gear lever and landing gear indicator lights, a large rotary encoder, and a sensitive touchscreen that I can easily create the GUI for on the PC. Following that, I made some changes to the joystick design that needed to be made because I decided to tilt the entire stick 10 degrees forward for ergonomics. However, I somehow lost the ability to add the fillet to the joystick that would give it the characteristic place to insert your thumb, I will continue to try to fix this, although it is not a major issue. 
 
 To make the HOTAS system look as flawless and polished as possible, I added my personal logo that I made a few weeks ago to place on my PCBs and 3d prints going forward. I also created a SVG of a stylistic logo that I could print on the back of both assemblies to further add to the appearance of the HOTAS system.
