@@ -5,6 +5,8 @@ description: "A throttle and joystick HOTAS system for flight sims."
 created_at: "2025-06-16"
 ---
 
+# X-70 HOTAS Journal --> 42 Hours total
+
 # June 16th- spent 4 hours planning. 
 I spent most of today setting my goals for the project. In summary, I want to make a HOTAS system that resembles the X-56 HOTAS by Logitech, since I like its design. 
 
