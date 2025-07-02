@@ -10,6 +10,14 @@ I intend on using FreeJoy, a open source software to configure and run the joyst
 
 Freejoy: https://github.com/FreeJoy-Team/FreeJoy 
 
+# Project Showcase
+
+![Screenshot 2025-06-30 220043](https://github.com/user-attachments/assets/75555d52-ded4-482b-b260-4c7ee5886b44)
+![Screenshot 2025-06-30 220137](https://github.com/user-attachments/assets/5c6a0a2e-cec1-44d2-8285-56a4c3455f49)
+![Screenshot 2025-06-30 220155](https://github.com/user-attachments/assets/8c4bfaa9-b427-416b-8334-380c9fe751c8)
+![image](https://github.com/user-attachments/assets/198e9928-f4d7-44fa-883f-f8c498115363)
+![Screenshot 2025-06-30 220210](https://github.com/user-attachments/assets/53301708-a644-4c49-aeb1-01c556fe3765)
+
 
 # BOM 
 | Item                        | Amount | Bought? | Cost (CAD) | Total Cost | Notes                            | Link                                                  |
