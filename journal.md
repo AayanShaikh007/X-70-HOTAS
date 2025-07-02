@@ -6,6 +6,7 @@ created_at: "2025-06-16"
 ---
 
 # X-70 HOTAS Journal --> 42 Hours total (not including assembly)
+First- a small word on the complexity of the project. I think this was a particularly difficult project and should be considered to take 50+ hours since I will likely be making various edits and changes in the future as I prototype the throttle and joystick mechanisms and expereiment with making new ones. Furthermore, assembly and software configuration will also take quite some time. 
 
 # June 16th- spent 4 hours planning. 
 I spent most of today setting my goals for the project. In summary, I want to make a HOTAS system that resembles the X-56 HOTAS by Logitech, since I like its design. 
