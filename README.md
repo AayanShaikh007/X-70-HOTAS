@@ -40,3 +40,5 @@ Freejoy: https://github.com/FreeJoy-Team/FreeJoy
 | m5 by 30 max screws         | 8      | n       | 0.42       | 3.36        | different size                   | [Link](https://www.aliexpress.com/item/1005005879037174.html) |
 | springs                     | 4      | n       | 5.01       | 5.01        |                                  | [Link](https://www.aliexpress.com/item/1005006443579464.html) |
 | hall effect sensors         | 2      | n       | 8.39       | 8.39        |                                  | [Link](https://www.aliexpress.com/item/1005008473344808.html) |
+| PCB manufacturing         | 1      | n       | 4.74       | 4.74        |                                  | no link |
+
