@@ -10,6 +10,9 @@ I intend on using FreeJoy, a open source software to configure and run the joyst
 
 Freejoy: https://github.com/FreeJoy-Team/FreeJoy 
 
+## Wiring Diagram
+The wiring diagram is located inside the PCB folder as wiringdiagram.pdf. This will apply for throttle, the joystick does not need a matrix board but I may add one for convencience (I will get 5 pcbs from jlcpcb anyways). 
+
 # Project Showcase
 
 ![Screenshot 2025-06-30 220043](https://github.com/user-attachments/assets/75555d52-ded4-482b-b260-4c7ee5886b44)
