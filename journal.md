@@ -104,7 +104,13 @@ As mentioned previously, the main focus now is just to add the finishing touches
 
 To make the HOTAS system look as flawless and polished as possible, I added my personal logo that I made a few weeks ago to place on my PCBs and 3d prints going forward. I also created a SVG of a stylistic logo that I could print on the back of both assemblies to further add to the appearance of the HOTAS system.
 
-Final showcase of finished product:
+# July 2nd- worked 4 hours on PCB
+Turns out I actually will need a PCB, since I have 50 pins of switches and stuff to connect to the board. I made a matrix board that reduces that to around 30 pins or so. 
+
+![image](https://github.com/user-attachments/assets/52c5eb86-6fc5-4286-9c40-1bf8dfa6d6d6)
+
+
+# Final showcase of finished product:
 
 ![Screenshot 2025-06-30 220043](https://github.com/user-attachments/assets/75555d52-ded4-482b-b260-4c7ee5886b44)
 ![Screenshot 2025-06-30 220137](https://github.com/user-attachments/assets/5c6a0a2e-cec1-44d2-8285-56a4c3455f49)
