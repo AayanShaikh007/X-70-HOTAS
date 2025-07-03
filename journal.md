@@ -5,7 +5,7 @@ description: "A throttle and joystick HOTAS system for flight sims."
 created_at: "2025-06-16"
 ---
 
-# X-70 HOTAS Journal --> 42 Hours total (not including assembly)
+# X-70 HOTAS Journal --> 49 Hours total (not including assembly)
 First- a small word on the complexity of the project. I think this was a particularly difficult project and should be considered to take 50+ hours since I will likely be making various edits and changes in the future as I prototype the throttle and joystick mechanisms and expereiment with making new ones. Furthermore, assembly and software configuration will also take quite some time. 
 
 # June 16th- spent 4 hours planning. 
@@ -104,7 +104,7 @@ As mentioned previously, the main focus now is just to add the finishing touches
 
 To make the HOTAS system look as flawless and polished as possible, I added my personal logo that I made a few weeks ago to place on my PCBs and 3d prints going forward. I also created a SVG of a stylistic logo that I could print on the back of both assemblies to further add to the appearance of the HOTAS system.
 
-# July 2nd- worked 4 hours on PCB
+# July 2nd- worked 7 hours on PCB, BOM, shipping project
 Turns out I actually will need a PCB, since I have 50 pins of switches and stuff to connect to the board. I made a matrix board that reduces that to around 30 pins or so. 
 
 ![image](https://github.com/user-attachments/assets/52c5eb86-6fc5-4286-9c40-1bf8dfa6d6d6)
