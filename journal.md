@@ -129,3 +129,5 @@ Looking forward to building this irl!
 # August 4th
 Printed some of the components and started assembling them. I also started testing the throttle mechanism and the joystick in the freejoy software. Fortunately no issues were found and the throttle actually worked in X-Plane 11!!!
 
+# August 6th
+Today I will be spending a lot of time trying to print the rest of the assembly, including the throttle handle, joystick, and the enclosure for both the joystick and throttle. very tedious. 
