@@ -125,3 +125,7 @@ Joystick:
 ![Screenshot 2025-06-30 221005](https://github.com/user-attachments/assets/0f5c46f8-c002-47be-b38c-a556e2873e49)
 
 Looking forward to building this irl!
+
+# August 4th
+Printed some of the components and started assembling them. I also started testing the throttle mechanism and the joystick in the freejoy software. Fortunately no issues were found and the throttle actually worked in X-Plane 11!!!
+
