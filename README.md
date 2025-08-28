@@ -1,7 +1,6 @@
 # X-70 HOTAS
 
-## Youtube Demo Link
-https://youtu.be/6ULwWaiPMuY
+## Youtube Demo Link: https://youtu.be/6ULwWaiPMuY
 
 A throttle and joystick HOTAS system designed from the ground up. Modelled after the X-56 HOTAS by Logitech. 
 
