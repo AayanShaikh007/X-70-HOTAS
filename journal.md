@@ -126,8 +126,14 @@ Joystick:
 
 Looking forward to building this irl!
 
-# August 4th
+# August 3rd
 Printed some of the components and started assembling them. I also started testing the throttle mechanism and the joystick in the freejoy software. Fortunately no issues were found and the throttle actually worked in X-Plane 11!!!
 
-# August 6th
+# August 5th
 Today I will be spending a lot of time trying to print the rest of the assembly, including the throttle handle, joystick, and the enclosure for both the joystick and throttle. I am aiming to print all of the parts by tomorrow morning so that I can start assembly early tomorrow. 
+
+# August 6th
+Finished the assembly of all of the components. Soldered the switches and wired them, which took quite some time since each switch had 3 terminals to wire. Wired the buttons and joysticks etc. I found superglue to be very helpful in attaching the components together (the components that couldnt be bolted together). Tested the components on X-Plane and MSFS 2020 and got both the joystick and the throttle to work. 
+
+# August 27th 
+Today I went back to this project to finalize the demo video and to fix a problem that had been annoying me for some time. I didnt like how the joystick hall effect sensors had a lot of noise, which may be visible in one of the videos where you can see the joystick as its being assembled. I found a feature in FreeJoy where you could de-noise the signal by adding a "Filter" of varying strengths, which solved the issue. 
