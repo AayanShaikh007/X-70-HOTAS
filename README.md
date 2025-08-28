@@ -1,4 +1,8 @@
 # X-70 HOTAS
+
+## Youtube Demo Link
+https://youtu.be/6ULwWaiPMuY
+
 A throttle and joystick HOTAS system designed from the ground up. Modelled after the X-56 HOTAS by Logitech. 
 
 The X-70 HOTAS is a flight control system designed for use in flight sims and space sims. HOTAS stands for Hands on Throttle and Stick, and they are used to control planes in flight simulators just like how Airbus pilots and fighter pilots use a joystick to control the plane's movements. I designed both the throttle and the joystick in this project, down to the very mechanism that their motion relies on. The X-70 is highly customizable and has a bunch of useful features that increase realism, including landing gear and flap change levers, various customizable switches, and a touchscreen display that can be customized to activate more features and display data. 
