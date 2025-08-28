@@ -131,6 +131,8 @@ Printed some of the components and started assembling them. I also started testi
 
 # August 5th
 Today I will be spending a lot of time trying to print the rest of the assembly, including the throttle handle, joystick, and the enclosure for both the joystick and throttle. I am aiming to print all of the parts by tomorrow morning so that I can start assembly early tomorrow. 
+![IMG_20250807_180933630](https://github.com/user-attachments/assets/9a0999a4-c7d6-4890-ba0e-2085f35129bc)
+
 
 # August 6th
 Finished the assembly of all of the components. Soldered the switches and wired them, which took quite some time since each switch had 3 terminals to wire. Wired the buttons and joysticks etc. I found superglue to be very helpful in attaching the components together (the components that couldnt be bolted together). Tested the components on X-Plane and MSFS 2020 and got both the joystick and the throttle to work. 
