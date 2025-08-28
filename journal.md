@@ -135,5 +135,10 @@ Today I will be spending a lot of time trying to print the rest of the assembly,
 # August 6th
 Finished the assembly of all of the components. Soldered the switches and wired them, which took quite some time since each switch had 3 terminals to wire. Wired the buttons and joysticks etc. I found superglue to be very helpful in attaching the components together (the components that couldnt be bolted together). Tested the components on X-Plane and MSFS 2020 and got both the joystick and the throttle to work. 
 
+![IMG_20250827_193219216](https://github.com/user-attachments/assets/95991d20-8a0e-4c84-bdab-6f8c5e44038e)
+
+
 # August 27th 
 Today I went back to this project to finalize the demo video and to fix a small problem that had been annoying me for some time. I didnt like how the joystick hall effect sensors had a lot of noise, which may be visible in one of the videos where you can see the joystick as its being assembled. I found a feature in FreeJoy where you could de-noise the signal by adding a "Filter" of varying strengths, which solved the issue. 
+
+<img width="672" height="256" alt="image" src="https://github.com/user-attachments/assets/8ce36d25-7375-46b5-af98-6b0b109615dd" />
